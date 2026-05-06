@@ -91,3 +91,18 @@ running tasks in parallel is much faster than one at a time.
   that make concurrency much safer and easier
 - Always test concurrent code multiple times — a bug that appears
   once every 10 runs is still a bug!
+
+## File Structure
+```
+Syed Tahmid Manzoor_Concurrency/
+├── README.md
+├── part1_race_condition.py
+├── part2_producer_consumer.py
+├── part3_dining_philosophers.py
+├── part4_thread_pool.py
+└── screenshots/
+    ├── part1_output.png
+    ├── part2_output.png
+    ├── part3_output.png
+    └── part4_output.png
+```  
